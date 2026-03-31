@@ -4,7 +4,7 @@
 #include <math.h>
 
 
-#include "../layerExImage/LayerExBase.hpp"
+#include "../layerExImage/layerExBase.hpp"
 
 /*
  * アウトラインベースのテキスト描画メソッドの追加
